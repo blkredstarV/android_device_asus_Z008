@@ -1,0 +1,11 @@
+# system.prop for Z008
+#
+
+qemu.hw.mainkeys=0
+
+# Art Optimization
+dalvik.vm.image-dex2oat-filter=everything
+dalvik.vm.dex2oat-filter=everything
+
+#Fix for data issue
+ro.telephony.ril.config=setPrefNwTypeOnUnsolConnected
