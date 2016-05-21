@@ -28,4 +28,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     
 # Broken Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-	DEVICE_MAINTAINERS="Roberto Correa (RCG)
+	DEVICE_MAINTAINERS="Roberto Correa (RCG)"
